@@ -1,4 +1,7 @@
 # windowsdots
+
+ > first of all i suggest using [this](https://github.com/ChrisTitusTech/winutil) and debloating windows and disabling anything unstable , also disable windows features updates (keep security) for a more stable experience 
+  
   Tool used for configs: [Windhawk](https://github.com/ramensoftware/windhawk) <br>
   Fonts: [Jetbrainsmono nerd font mono](https://fonts.google.com/specimen/JetBrains+Mono) and [Poppins](https://fonts.google.com/specimen/Poppins) <br>
   Cursor: [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) <br>
