@@ -7,7 +7,9 @@
              
 
 # Preview
-<img src="https://raw.githubusercontent.com/praveenxsharma/windowsdots/refs/heads/main/Preview.png" alt="Description" width="600"/>
+<img src="https://raw.githubusercontent.com/praveenxsharma/windowsdots/refs/heads/main/Preview.png" alt="Description" width="600"/> <br>
+<img src="https://raw.githubusercontent.com/praveenxsharma/windowsdots/refs/heads/main/Preview2.png" alt="Description" width="600"/>
+
 
 
 # see this 
