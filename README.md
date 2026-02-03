@@ -3,7 +3,8 @@
   Fonts: [Jetbrainsmono nerd font mono](https://fonts.google.com/specimen/JetBrains+Mono) and [Poppins](https://fonts.google.com/specimen/Poppins) <br>
   Cursor: [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) <br>
   Icons: [Fluent Keys](https://www.deviantart.com/niivu/art/Fluent-Keys-Icon-Theme-860328216) <br>
-  Explorer Theme: [Rosepine](https://www.deviantart.com/niivu/art/Rose-Pine-for-Windows-11-955213259)
+  Explorer Theme: [Rosepine](https://www.deviantart.com/niivu/art/Rose-Pine-for-Windows-11-955213259) <br>
+  > you'll find all guides on their respective pages , ig ? not so sure !
 
              
 
