@@ -1,5 +1,5 @@
 # windowsdots
-  Tool used for configs: [Windhawk](https://github.com/ramensoftware/windhawk)
+  Tool used for configs: [Windhawk](https://github.com/ramensoftware/windhawk) <br>
   Fonts: [Jetbrainsmono nerd font mono](https://fonts.google.com/specimen/JetBrains+Mono) and [Poppins](https://fonts.google.com/specimen/Poppins) <br>
   Cursor: [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) <br>
   Icons: [Fluent Keys](https://www.deviantart.com/niivu/art/Fluent-Keys-Icon-Theme-860328216) <br>
