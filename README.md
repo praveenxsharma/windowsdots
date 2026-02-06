@@ -1,4 +1,4 @@
-# windowsdots
+# windots
 
  > first of all i suggest using [this](https://github.com/ChrisTitusTech/winutil) and debloating windows and disabling anything unstable , also disable windows features updates (keep security) for a more stable experience 
   
